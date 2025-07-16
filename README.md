@@ -36,17 +36,17 @@ Sales & Profit by Customer Segment
 Sales-to-Profit Ratio
 
 📷 Sample Visualizations
-📈 Monthly sales trends
+
 <img width="902" height="450" alt="image" src="https://github.com/user-attachments/assets/54994a50-912e-4e32-9422-aac9cb972210" />
 
-🏷️ Top-performing product categories
+
 <img width="902" height="450" alt="image" src="https://github.com/user-attachments/assets/f2eb1ab3-a5f8-4618-b6bf-afbda3ca6058" />
 
-💰 Profit contribution by sub-categories
+
 <img width="902" height="450" alt="image" src="https://github.com/user-attachments/assets/2a537597-de1d-462e-bca2-c4332bfc157b" />
 
 
-👥 Insights on customer segments
+
 <img width="902" height="450" alt="image" src="https://github.com/user-attachments/assets/87b24e08-b208-49b3-afa3-2954cd3e0031" />
 
 
