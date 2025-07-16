@@ -50,6 +50,11 @@ Sales-to-Profit Ratio
 <img width="902" height="450" alt="image" src="https://github.com/user-attachments/assets/87b24e08-b208-49b3-afa3-2954cd3e0031" />
 
 
+<img width="902" height="450" alt="image" src="https://github.com/user-attachments/assets/ac70b0ec-ccff-4304-aae0-5cf4d1a351c3" />
+
+<img width="902" height="450" alt="image" src="https://github.com/user-attachments/assets/6221fd3b-d55f-46bc-920a-00162f07fd6d" />
+
+
 
 
 
