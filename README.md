@@ -37,39 +37,21 @@ Sales-to-Profit Ratio
 
 📷 Sample Visualizations
 📈 Monthly sales trends
+<img width="902" height="450" alt="image" src="https://github.com/user-attachments/assets/54994a50-912e-4e32-9422-aac9cb972210" />
 
 🏷️ Top-performing product categories
+<img width="902" height="450" alt="image" src="https://github.com/user-attachments/assets/f2eb1ab3-a5f8-4618-b6bf-afbda3ca6058" />
 
 💰 Profit contribution by sub-categories
+<img width="902" height="450" alt="image" src="https://github.com/user-attachments/assets/2a537597-de1d-462e-bca2-c4332bfc157b" />
+
 
 👥 Insights on customer segments
+<img width="902" height="450" alt="image" src="https://github.com/user-attachments/assets/87b24e08-b208-49b3-afa3-2954cd3e0031" />
 
-(Add screenshots here if you have)
 
-🚀 How to Run
-Clone this repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/ecommerce-sales-analysis.git
-cd ecommerce-sales-analysis
-Install required libraries:
 
-bash
-Copy
-Edit
-pip install pandas plotly
-Open the notebook:
-
-bash
-Copy
-Edit
-jupyter notebook analysis.ipynb
-📄 Outputs
-Interactive visualizations in the notebook
-
-PDF/HTML version (optional)
 
 🤝 Contributing
 Want to improve this analysis?
@@ -81,8 +63,8 @@ Create a new branch (feature-xyz)
 Submit a PR with your changes
 
 📬 Connect
-💼 LinkedIn: [Your LinkedIn Profile]
-📧 Email: [Your Email]
+💼 LinkedIn: www.linkedin.com/in/shruti-kaushik-b61243229
+📧 Email: kaushikshruti964@gmail.com
 
 If you find this helpful, don’t forget to ⭐ star the repo!
 
